@@ -3,6 +3,8 @@ body {
   padding: 0;
   overflow: hidden; 
   -webkit-font-smoothing: none;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
   font-smooth: never;
 }
 :root {
